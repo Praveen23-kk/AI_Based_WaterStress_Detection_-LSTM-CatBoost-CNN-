@@ -47,22 +47,22 @@ The goal is to support early detection of groundwater stress, improve resource p
 
 ### Figure 5: LSTM Model (★)
 <p align="center">
-  <img src="images/LSTM.png" alt="LSTM Model Groundwater Prediction" width="500">
+  <img src="AI_Based_WaterStress_Detection_(LSTM,CatBoost,CNN)/images/LSTM.png" alt="LSTM Model Groundwater Prediction" width="500">
 </p>
 
 ### Figure 6: CNN Model (●)
 <p align="center">
-  <img src="images/CNN.png" alt="CNN Model Groundwater Prediction" width="500">
+  <img src="AI_Based_WaterStress_Detection_(LSTM,CatBoost,CNN)/images/CNN.png" alt="CNN Model Groundwater Prediction" width="500">
 </p>
 
 ### Figure 7: CatBoost Model (▲)
 <p align="center">
-  <img src="images/CatBoost.png" alt="CatBoost Model Groundwater Prediction" width="500">
+  <img src="AI_Based_WaterStress_Detection_(LSTM,CatBoost,CNN)/images/CatBoost.png" alt="CatBoost Model Groundwater Prediction" width="500">
 </p>
 
 ### Figure 8: Comparative Observed vs Predicted (All Models)
 <p align="center">
-  <img src="images/All_Models.png" alt="Comparison of All Models: LSTM, CNN, CatBoost" width="500">
+  <img src="AI_Based_WaterStress_Detection_(LSTM,CatBoost,CNN)/imagesAll_Models.png" alt="Comparison of All Models: LSTM, CNN, CatBoost" width="500">
 </p>
 
 The red dashed line in each figure represents the ideal fit (y = x).
