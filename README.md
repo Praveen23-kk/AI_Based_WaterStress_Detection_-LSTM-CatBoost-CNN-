@@ -112,29 +112,24 @@ cd AI_Based_WaterStress_Detection_-LSTM-CatBoost-CNN
 jupyter notebook notebooks/AI_Based_WaterStress_Detection_(LSTM,CatBoost,CNN).ipynb
 ```
 
-Step 4: Run all cells to:
+### Step 4: Run all cells to:
 
 ```
 Load and preprocess the dataset
-
 Train LSTM, CNN, and CatBoost models
-
 Generate prediction plots inside the images/ folder
 ```
-##Future Work
+### Future Work
 ```
 Build an ensemble of LSTM + CNN + CatBoost
-
 Add spatial visualization through GIS mapping
-
 Extend model with rainfall and climate attributes
-
 Deploy using Streamlit 
 
 ```
-##License
-
+### License
+```
 This project is open for research and academic use.
 Attribution is appreciated if referenced or used in further work.
-
+```
 
