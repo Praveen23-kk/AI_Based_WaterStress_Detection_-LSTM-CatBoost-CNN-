@@ -69,4 +69,72 @@ The red dashed line in each figure represents the ideal fit (y = x).
 Points closer to this line indicate more accurate predictions.
 
 
+## Evaluation Insights
+
+All three models follow the ideal line reasonably well.  
+CNN and CatBoost show strong alignment with the ideal fit, especially at higher groundwater levels.  
+LSTM performs well but shows slightly higher variance at extreme values.
+
+### In summary:
+
+- For **stability and consistency**, CNN and CatBoost are preferable.  
+- For **sequential pattern learning**, LSTM remains useful, especially when trained on more time steps/features.
+
+---
+
+## Tech Stack
+
+**Language:** Python  
+
+**Libraries Used:**
+
+| Purpose | Libraries |
+|--------|-----------|
+| Data Processing | pandas, numpy |
+| Deep Learning | tensorflow, keras |
+| Gradient Boosting | catboost |
+| Visualization | matplotlib, seaborn |
+
+---
+
+## Setup and Usage
+
+### Step 1: Clone the repository
+
+```bash
+git clone https://github.com/<your-username>/<your-repo-name>.git
+cd <your-repo-name>
+```
+
+### Step 2: Open the notebook
+
+```bash
+jupyter notebook notebooks/AI_Based_WaterStress_Detection_(LSTM,CatBoost,CNN).ipynb
+```
+
+Step 4: Run all cells to:
+
+```
+Load and preprocess the dataset
+
+Train LSTM, CNN, and CatBoost models
+
+Generate prediction plots inside the images/ folder
+```
+##Future Work
+```
+Build an ensemble of LSTM + CNN + CatBoost
+
+Add spatial visualization through GIS mapping
+
+Extend model with rainfall and climate attributes
+
+Deploy using Streamlit 
+
+```
+##License
+
+This project is open for research and academic use.
+Attribution is appreciated if referenced or used in further work.
+
 
