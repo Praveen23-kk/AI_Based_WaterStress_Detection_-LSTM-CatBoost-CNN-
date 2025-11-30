@@ -43,6 +43,17 @@ The goal is to support early detection of groundwater stress, improve resource p
 
 ```
 
+## Dataset Description
+
+The dataset used in this project is **UPVillageSchedule.csv**, obtained from the 6th Minor Irrigation Census — Village Schedule of Uttar Pradesh (India).  
+This dataset originates from a government-led national survey that records village-level irrigation, water resources, and allied data.
+
+**Source / Download Link:**  
+[6th Minor Irrigation Census – Village Schedule (UPVillageSchedule.csv)](https://www.data.gov.in/catalog/6th-minor-irrigation-census-village-schedule-ground-water-schemes-surface-water-schemes) 
+
+You can download the dataset from the above link and place it inside the `data/` folder before running the notebook.  
+
+
 #### Observed vs Predicted Results
 
 ### Figure 5: LSTM Model (★)
