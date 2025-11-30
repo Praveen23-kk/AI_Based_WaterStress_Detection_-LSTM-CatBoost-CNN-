@@ -64,3 +64,9 @@ The goal is to support early detection of groundwater stress, improve resource p
 <p align="center">
   <img src="images/All_Models.png" alt="Comparison of All Models: LSTM, CNN, CatBoost" width="500">
 </p>
+
+The red dashed line in each figure represents the ideal fit (y = x).
+Points closer to this line indicate more accurate predictions.
+
+
+
