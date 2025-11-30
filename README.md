@@ -102,8 +102,8 @@ LSTM performs well but shows slightly higher variance at extreme values.
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/Praveen23-kk/AI_Based_WaterStress_Detection_-LSTM-CatBoost-CNN.git
+cd AI_Based_WaterStress_Detection_-LSTM-CatBoost-CNN
 ```
 
 ### Step 2: Open the notebook
